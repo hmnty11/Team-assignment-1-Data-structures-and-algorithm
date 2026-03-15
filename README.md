@@ -1,9 +1,8 @@
 # 🎵 Sistem Manajemen Playlist Musik - Tugas Kelompok 1
 
 **Mata Kuliah:** Data Structures and Algorithm Analysis (COSC6025)  
-**Topik:** Introduction to OOP & Data Structures  
-**Dosen:** [Nama Dosen]  
-**Tanggal:** [Tanggal Pengumpulan]
+**Topik:** Introduction to OOP & Data Structures   
+**Tanggal:** [15 Maret 2026]
 
 ---
 
